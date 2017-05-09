@@ -4,6 +4,5 @@
   <artifactId>helloworld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Hello world</name>
-  <packaging>war</packaging>
   <description>Example project</description>
 </project>
